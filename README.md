@@ -4,7 +4,7 @@ This project replicates a Two Factor Authentication (2FA) app like [Duo](https:/
 
 ## :book: Learnings
 
-I grew curious about how products, apps and services I use every day are engineered. I saw a 2FA app clone as a great way to also learn several skills in one project like mobile development, APIs, server-side development, cryptography and time-based one-time passwords (TOTPs).
+I'm curious how products, apps and services I use every day are engineered. I figured a 2FA app clone helps explore multiple skills at once like mobile development, APIs, server-side development, cryptography and time-based one-time passwords (TOTPs).
 
 | Concept | Learnings |
 |:---|:---|
